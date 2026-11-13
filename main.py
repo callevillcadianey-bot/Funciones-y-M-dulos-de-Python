@@ -26,4 +26,4 @@ def ejecutar_programa():
     print(f"25 grados Celsius equivalen a {temperatura} grados Fahrenheit.")
 
 if __name__ == "__main__":
-    ejecutar_programa()
+    ejecutar_programa() 
